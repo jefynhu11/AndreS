@@ -19,7 +19,7 @@ public class Menu {
 		int delete = 0;
 		
 		do {
-			System.out.println("-----Menu-----");
+			System.out.println("-----MENU-----");
 			System.out.println("1-Povoa vetor\n"
 					+ "2-Povoa vetor sequencia\n"
 					+ "3-Atribuir valor\n"
